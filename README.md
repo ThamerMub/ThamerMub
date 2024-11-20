@@ -1,4 +1,4 @@
-👋 Hi, I’m @ThamerMub
+👋 Hi, I’m Thamer Mubarak Al-Madi
 
 👀 I’m interested in software development, AI, and backend programming with Laravel.
 
