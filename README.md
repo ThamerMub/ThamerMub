@@ -6,7 +6,7 @@
 
 💞️ I’m looking to collaborate on open-source projects or any project related to backend development and AI.
 
-📫 How to reach me: You can reach me through my GitHub or email ( thamermub@hotmail.com ).
+📫 How to reach me: You can reach me through my email ( thamermub@hotmail.com ).
 
 ⚡ Fun fact: I’m passionate about solving complex problems, whether it’s coding or playing games like Diablo 4 
 
